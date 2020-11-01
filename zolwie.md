@@ -41,6 +41,12 @@ Punkty koloru \textcolor{red}{czerwonego} oraz \textcolor{yellow}{zielonego} ozn
 ### Opis fizyczny
 Dorosłe żółwie zielone mierzą około 1.5 metra (w czego 78 – 112 centymetów stanowi skorupa) oraz ważą 70 - 190 kilogramów. Żółwie rosną przez całe życie - największy spotkany do tej pory osobnik ważył **395** kilogramów.
 
+## Młody żółw zielony
+
+\begin{center}
+  \includegraphics[scale=0.15]{hatchling.jpg}
+\end{center}
+
 
 ## Cykl życia żółwi zielonych - od jajka do młodego żółwia
 ###
