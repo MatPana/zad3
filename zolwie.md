@@ -72,3 +72,12 @@ Po osiągnięciu dojrzałości żółwie powracają na płytkie wody, blisko raf
 |Genus: 	|Chelonia      |
 |Species: 	|C. mydas      |
 
+
+## Linki
+
+Strony z których czerpałem informacje (uszeregowane względem przydatności):
+
+1. [Wikipedia](https://en.wikipedia.org/wiki/Green_sea_turtle)
+2. [ekologia.pl](https://www.ekologia.pl/wiedza/zwierzeta/zolw-zielony)
+3. [medianauka.pl](https://www.medianauka.pl/zolw-zielony)
+
