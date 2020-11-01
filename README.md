@@ -1,1 +1,2 @@
-# zad3
+# Zadanie 3, PTI
+Mateusz Panasiuk

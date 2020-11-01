@@ -3,7 +3,7 @@ author: Mateusz Panasiuk
 title: Żółw zielony
 subtitle: Chelonia mydas
 date: 25 X 2020
-theme: Warsaw
+theme: CambridgeUS
 output: beamer_presentation
 header-includes: 
     \usepackage{xcolor}
