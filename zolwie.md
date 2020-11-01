@@ -56,3 +56,19 @@ Po osiągnięciu bezpiecznych wód młode żółwie mogą odetchnąć, najniebez
 ###
 Po osiągnięciu dojrzałości żółwie powracają na płytkie wody, blisko raf koralowych, plaż i łąk trawy morskiej.
 
+
+## Klasyfikacja filogenetyczna żółwi zielonych
+
+| Szczebel      | Nazwa          |
+|--------------|---------------|
+|Kingdom: 	|Animalia      |
+|Phylum: 	|Chordata      |
+|Class: 	|Reptilia      |
+|Order: 	|Testudines    |
+|Suborder: 	|Cryptodira    |
+|Superfamily: 	|Chelonioidea  |
+|Family: 	|Cheloniidae   |
+|Subfamily: 	|Cheloniinae   |
+|Genus: 	|Chelonia      |
+|Species: 	|C. mydas      |
+
